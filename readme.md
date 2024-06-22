@@ -3,7 +3,7 @@
 I want to make an application which will apply themes and filters to the image that I provide. For Now I want to add some pretty good images.
 
 ## Features 
-- [ ] applying theme to a single image
+- [x] applying theme to a single image
 
 
 ## 2024-06-17
